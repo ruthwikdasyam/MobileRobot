@@ -1,2 +1,5 @@
 # RWA2
-Mobile robot OOPS
+C++ -> OOPS
+
+Mobile Robot -> Main class and Different sub classes
+Project using methods and attributes between various classes
